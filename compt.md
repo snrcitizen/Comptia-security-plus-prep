@@ -1,3 +1,3 @@
 CIA TRIAD
 Ports - secure versions
-ssh
+ssh - secure shell
