@@ -1,4 +1,4 @@
 CIA TRIAD
 Ports - secure versions
 ssh - secure shell 
-ssh - port 222
+ssh - port 22
