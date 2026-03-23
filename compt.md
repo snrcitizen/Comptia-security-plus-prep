@@ -1,5 +1,7 @@
 CIA TRIAD
 Ports - secure versions
 ssh - secure shell 
-ssh - port 22
-telnet - port 21
+ftp - port 20,21
+ssh/sftps - port 22
+telnet - port 23
+smtp - port 25
