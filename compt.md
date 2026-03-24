@@ -5,4 +5,4 @@ ftp - port 20,21
 ssh/sftps - port 22
 telnet - port 23
 smtp - port 25
-Dns - port 
+Dns - port 5
