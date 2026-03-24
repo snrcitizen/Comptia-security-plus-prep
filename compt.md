@@ -6,4 +6,4 @@ ssh/sftps - port 22
 telnet - port 23
 smtp - port 25
 Dns - port 53
-H=Dhcp
+HDhcp
