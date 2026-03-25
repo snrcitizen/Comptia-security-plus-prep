@@ -8,4 +8,4 @@ smtp - port 25
 Dns - port 53
 Dhcp - port 67,68
 http - port 80
-pop -
+pop - 1
