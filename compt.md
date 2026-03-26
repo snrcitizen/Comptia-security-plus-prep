@@ -11,4 +11,4 @@ http - port 80
 pop - 110
 NTP - 123
 IMAP - 143
-SNMP - 161,1
+SNMP - 161,16
