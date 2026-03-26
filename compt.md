@@ -9,4 +9,4 @@ DNS - port 53
 Dhcp - port 67,68
 http - port 80
 pop - 110
-NTp
+NTP
